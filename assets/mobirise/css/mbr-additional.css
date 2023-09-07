@@ -728,43 +728,43 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-tP6SWx0V2M {
+.cid-tP8cQjyh1k {
   display: flex;
   background-image: url("../../../assets/images/pastel-models-plastic-poppy-1680x720.png");
 }
-.cid-tP6SWx0V2M .mbr-overlay {
+.cid-tP8cQjyh1k .mbr-overlay {
   background-color: #353535;
   opacity: 0.5;
 }
-.cid-tP6SWx0V2M .content-wrap {
+.cid-tP8cQjyh1k .content-wrap {
   padding: 5rem 1rem;
 }
 @media (min-width: 768px) {
-  .cid-tP6SWx0V2M {
+  .cid-tP8cQjyh1k {
     align-items: flex-end;
   }
-  .cid-tP6SWx0V2M .row {
+  .cid-tP8cQjyh1k .row {
     justify-content: flex-start;
   }
-  .cid-tP6SWx0V2M .content-wrap {
+  .cid-tP8cQjyh1k .content-wrap {
     width: 42%;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
-  .cid-tP6SWx0V2M .content-wrap {
+  .cid-tP8cQjyh1k .content-wrap {
     min-width: 50%;
   }
 }
 @media (max-width: 767px) {
-  .cid-tP6SWx0V2M {
+  .cid-tP8cQjyh1k {
     -webkit-align-items: center;
     align-items: center;
   }
-  .cid-tP6SWx0V2M .mbr-row {
+  .cid-tP8cQjyh1k .mbr-row {
     -webkit-justify-content: center;
     justify-content: center;
   }
-  .cid-tP6SWx0V2M .content-wrap {
+  .cid-tP8cQjyh1k .content-wrap {
     width: 100%;
   }
 }
