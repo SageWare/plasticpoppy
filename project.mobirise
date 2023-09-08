@@ -56,7 +56,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-mailform": false,
-    "uniqCompNum": 7,
+    "uniqCompNum": 8,
     "versionPublish": "5.9.0",
     "screenshot": "screenshot.png"
   },
@@ -127,6 +127,24 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div id=\"myShop\">\n    <a href=\"https://plasticpoppy.myspreadshop.com\">plasticpoppy</a>\n</div>\n\n[JS_CODE_0]\n\n[JS_CODE_1]",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "startm5",
+          "_anchor": "custom-html-7",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n    var spread_shop_config = {\n        shopName: 'plasticpoppy',\n        locale: 'us_US',\n        prefix: 'https://plasticpoppy.myspreadshop.com',\n        baseId: 'myShop'\n    };\n</script>",
+            "<script type=\"text/javascript\"\n        src=\"https://plasticpoppy.myspreadshop.com/shopfiles/shopclient/shopclient.nocache.js\">\n</script>"
+          ]
         },
         {
           "_name": "footer7",
