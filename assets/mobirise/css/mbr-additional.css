@@ -741,10 +741,10 @@ a {
 }
 @media (min-width: 768px) {
   .cid-tP8cQjyh1k {
-    align-items: flex-end;
+    align-items: center;
   }
   .cid-tP8cQjyh1k .row {
-    justify-content: flex-start;
+    justify-content: center;
   }
   .cid-tP8cQjyh1k .content-wrap {
     width: 42%;
