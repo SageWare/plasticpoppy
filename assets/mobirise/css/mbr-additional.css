@@ -841,6 +841,48 @@ a {
 .cid-tPmQGbuh6j .mbr-section-btn {
   text-align: center;
 }
+.cid-tPE6mSVuNQ {
+  display: flex;
+  padding-top: 90px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/pastel-models-plastic-poppy-shorter-1680x579.png");
+}
+.cid-tPE6mSVuNQ .mbr-overlay {
+  background-color: #353535;
+  opacity: 0.5;
+}
+.cid-tPE6mSVuNQ .content-wrap {
+  padding: 5rem 1rem;
+}
+@media (min-width: 768px) {
+  .cid-tPE6mSVuNQ {
+    align-items: center;
+  }
+  .cid-tPE6mSVuNQ .row {
+    justify-content: center;
+  }
+  .cid-tPE6mSVuNQ .content-wrap {
+    width: 20%;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-tPE6mSVuNQ .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tPE6mSVuNQ {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-tPE6mSVuNQ .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-tPE6mSVuNQ .content-wrap {
+    width: 100%;
+  }
+}
 .cid-tMWJUoQ5n3 {
   padding-top: 30px;
   padding-bottom: 30px;
