@@ -47,7 +47,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x114.png",
-    "mbrsiteDomain": "py0hcdbnkv",
+    "mbrsiteDomain": "0qhyqfpdxf",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
@@ -59,7 +59,7 @@
     "uniqCompNum": 12,
     "versionPublish": "5.9.0",
     "screenshot": "screenshot.png",
-    "global_header_custom": "<meta name=\"description\" content=\"Plastic Poppy is where bubblegum dreams meet pastel fashions from the early 2000s. The brand tells fashion tales of yesteryears and tomorrow's visions.\">\n<meta name=\"keywords\" content=\"HTML, CSS, JavaScript\">\n<meta name=\"author\" content=\"Delio Enterprises\">"
+    "global_header_custom": "<meta name=\"title\" content=\"Plastic Poppy™ Nostalgic Fashions\">\n\n<meta name=\"description\" content=\"Plastic Poppy is where bubblegum dreams meet nostalgic fashions from the early 2000s. Plastic Poppy weaves tales of yesteryears and tomorrow's visions. . .\">\n\n<meta name=\"keywords\" content=\"poppy love, early 2000s clothing, vibrant styles, fashion forward, plastic poppy, plastic poppy apparel, vintage 2000s look, 2000s revival, bubblegum poppy fashions, iconic looks, millennial nostalgia, pastel clothing, Y2K fashion, plastic poppy accessories, poppy streetwear, iconic clothing, early 2000s, pop culture clothing, retro-futuristic, throwback fashion, blast from pastel, poppy fashions, poppy flower clothing, Nostalgic fashion, 2000s style\">\n\n<meta name=\"author\" content=\"Delio Enterprises\">"
   },
   "pages": {
     "index.html": {
